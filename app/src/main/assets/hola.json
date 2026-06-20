@@ -1,0 +1,250 @@
+[
+  {
+    "id": "1",
+    "name": "Cleopatra",
+    "lastName": "VII",
+    "nationality": "Egyptian",
+    "bio": "Cleopatra VII Philopator was the last active ruler of the Ptolemaic Kingdom of Egypt. She was a powerful and influential queen known for her intelligence, political prowess, and romantic liaisons with Julius Caesar and Mark Antony.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/452px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Joan",
+    "lastName": "of Arc",
+    "nationality": "French",
+    "bio": "Joan of Arc, also known as the Maid of Orléans, was a French heroine and military leader who played a crucial role during the Lancastrian phase of the Hundred Years' War. She claimed divine guidance and led the French army to several important victories.",
+    "photo": "https://cdn.britannica.com/92/60892-050-3197B9F4/Joan-of-Arc-Coronation-Charles-VII-Reims-1854.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Marie",
+    "lastName": "Curie",
+    "nationality": "Polish",
+    "bio": "Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, and the only person to win Nobel Prizes in two different scientific fields.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Marie_Curie_%281900%29.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Clara",
+    "lastName": "Campoamor",
+    "nationality": "Spanish",
+    "bio": "Clara Campoamor fue una abogada, escritora y política española defensora del sufragio femenino en España. Gracias a su labor, las mujeres pudieron votar por primera vez en 1933.",
+    "photo": "https://aytocabanillas.org/wp-content/uploads/2021/02/02_Campoamor.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Rosa",
+    "lastName": "Parks",
+    "nationality": "American",
+    "bio": "Rosa Parks was a civil rights activist known for her pivotal role in the Montgomery bus boycott. Her refusal to give up her seat to a white man sparked a wave of protests and became a symbol of the civil rights movement.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rosaparks.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Amelia",
+    "lastName": "Earhart",
+    "nationality": "American",
+    "bio": "Amelia Earhart was an aviation pioneer and the first female aviator to fly solo across the Atlantic Ocean. She set many other records and helped to promote the advancement of women in aviation.",
+    "photo": "https://www.timeforkids.com/wp-content/uploads/2020/09/AG_amelia.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Malala",
+    "lastName": "Yousafzai",
+    "nationality": "Pakistani",
+    "bio": "Malala Yousafzai is a Pakistani education activist who became the youngest-ever Nobel Prize laureate. She advocates for the rights of girls to receive an education and has become a global symbol of peaceful protest.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malala_Yousafzai_2015.jpg/1024px-Malala_Yousafzai_2015.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Jane",
+    "lastName": "Goodall",
+    "nationality": "British",
+    "bio": "Jane Goodall is a British primatologist and anthropologist known for her groundbreaking research on chimpanzees in Tanzania. Her work has transformed our understanding of animal behavior and conservation.",
+    "photo": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638890998/EducationHub/photos/jane-goodall-12.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Isabel",
+    "lastName": "la Católica",
+    "nationality": "Spanish",
+    "bio": "Isabel I de Castilla fue reina de Castilla y León, y junto a Fernando de Aragón, impulsora de la unificación de España y el patrocinio del viaje de Cristóbal Colón en 1492.",
+    "photo": "https://historia.nationalgeographic.com.es/medio/2020/11/26/isabel-la-catolica_dffc51db_550x680.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Indira",
+    "lastName": "Gandhi",
+    "nationality": "Indian",
+    "bio": "Indira Gandhi was the first and, to date, the only female Prime Minister of India. She played a significant role in shaping the country's political landscape during her tenure, implementing major policies and reforms.",
+    "photo": "https://hips.hearstapps.com/hmg-prod/images/indian-prime-minister-indira-gandhi-at-the-carlyle-hotel-news-photo-1709823666.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Elizabeth",
+    "lastName": "I",
+    "nationality": "English",
+    "bio": "Queen Elizabeth I was one of the most iconic monarchs in English history. Her reign, known as the Elizabethan Era, saw significant cultural, economic, and military growth, and she is often remembered for her strong leadership.",
+    "photo": "https://cdn.britannica.com/85/285-050-EB9954ED/Elizabeth-I-oil-panel-George-Gower-1588.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Helen",
+    "lastName": "Keller",
+    "nationality": "American",
+    "bio": "Helen Keller was a deaf-blind author, activist, and lecturer who overcame immense challenges to become a leading advocate for people with disabilities. She was the first deaf-blind person to earn a Bachelor of Arts degree.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helen_Keller_circa_1920_-_restored.jpg/190px-Helen_Keller_circa_1920_-_restored.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Emilia",
+    "lastName": "Pardo Bazán",
+    "nationality": "Spanish",
+    "bio": "Emilia Pardo Bazán fue una novelista, periodista y ensayista española, pionera del feminismo y la introducción del naturalismo literario en España.",
+    "photo": "https://i.ytimg.com/vi/wBkkHWrKdLc/maxresdefault.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Mother",
+    "lastName": "Teresa",
+    "nationality": "Albanian",
+    "bio": "Mother Teresa, known as Saint Teresa of Calcutta, was a Catholic nun and missionary who dedicated her life to serving the poor and sick in India. She founded the Missionaries of Charity, which operates hospices and homes for people with HIV/AIDS, leprosy, and tuberculosis.",
+    "photo": "https://cdn.britannica.com/42/155442-050-AB85E00E/Mother-Teresa.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Eleanor",
+    "lastName": "Roosevelt",
+    "nationality": "American",
+    "bio": "Eleanor Roosevelt was a prominent American politician, diplomat, and activist. She served as the First Lady of the United States from 1933 to 1945 and was a vocal advocate for civil rights, women's rights, and human rights.",
+    "photo": "https://www.womenshistory.org/sites/default/files/styles/main_image/public/Eleanor-Roosevelt-Square.png"
+  },
+  {
+    "id": "16",
+    "name": "Ada",
+    "lastName": "Lovelace",
+    "nationality": "British",
+    "bio": "Ada Lovelace was a mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She is considered the world's first computer programmer.",
+    "photo": "https://www.nist.gov/sites/default/files/styles/2800_x_2800_limit/public/images/2023/03/14/SS_2210583803-Ada-%C2%A9HappySloth_edited.jpg?itok=EJ2WGmu6"
+  },
+  {
+    "id": "17",
+    "name": "Sojourner",
+    "lastName": "Truth",
+    "nationality": "American",
+    "bio": "Sojourner Truth was an African-American abolitionist and women's rights activist. She escaped from slavery and became a powerful speaker, advocating for the abolition of slavery and for women's rights.",
+    "photo": "https://www.womenshistory.org/sites/default/files/styles/main_image/public/images/2020-08/Sojourner%20Truth%20Square.png?itok=ZR1AOUE0"
+  },
+  {
+    "id": "18",
+    "name": "Dolores",
+    "lastName": "Ibárruri",
+    "nationality": "Spanish",
+    "bio": "Dolores Ibárruri, conocida como 'La Pasionaria', fue una destacada política y oradora española que luchó por los derechos de los trabajadores y fue símbolo de la resistencia republicana durante la Guerra Civil.",
+    "photo": "https://kodigomalva.com/wp-content/uploads/2015/11/pasionaria-puc3b1o1.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Florence",
+    "lastName": "Nightingale",
+    "nationality": "British",
+    "bio": "Florence Nightingale was a trailblazing figure in nursing who greatly affected 19th- and 20th-century policies around proper medical care. She became known as 'The Lady with the Lamp' during the Crimean War, where she tended to wounded soldiers.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/800px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Marie",
+    "lastName": "Antoinette",
+    "nationality": "Austrian",
+    "bio": "Marie Antoinette was the last queen of France before the French Revolution. She became infamous for her extravagant lifestyle and was accused of being disconnected from the struggles of the French people, leading to her eventual execution.",
+    "photo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYEi8OZ3cOT8YMILiF2p4C4FNLkUUicHa6m4LIzNPusaqRIE64"
+  },
+  {
+    "id": "21",
+    "name": "Queen",
+    "lastName": "Victoria",
+    "nationality": "British",
+    "bio": "Queen Victoria was the queen of the United Kingdom of Great Britain and Ireland from 1837 to 1901. She presided over a period of significant cultural, economic, and technological change, and her reign was marked by the expansion of the British Empire.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/800px-Queen_Victoria_by_Bassano.jpg"
+  },
+  {
+    "id": "22",
+    "name": "María",
+    "lastName": "de Maeztu",
+    "nationality": "Spanish",
+    "bio": "María de Maeztu fue una pedagoga e intelectual española, promotora del feminismo y la educación para las mujeres en España durante el siglo XX.",
+    "photo": "https://circulodeorellana.org/wp-content/uploads/2019/11/maria-de-maeztu_doctorado.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Sacagawea",
+    "lastName": "",
+    "nationality": "Shoshone",
+    "bio": "Sacagawea was a Lemhi Shoshone woman who played a crucial role as an interpreter and guide for the Lewis and Clark Expedition. She traveled thousands of miles with the expedition and helped facilitate diplomatic relations with Native American tribes.",
+    "photo": "https://www.battlefields.org/sites/default/files/styles/squarish/public/thumbnails/image/sacagewea_square.jpg?h=f6f7c884&itok=AtOhEwgD"
+  },
+  {
+    "id": "24",
+    "name": "Anne",
+    "lastName": "Frank",
+    "nationality": "German",
+    "bio": "Anne Frank was a Jewish diarist and Holocaust victim who gained posthumous fame for her diary, which documents her experiences hiding during the German occupation of the Netherlands in World War II. Her diary has been translated into numerous languages and remains a powerful testament to the human spirit.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Anne_Frank_passport_photo%2C_May_1942.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Queen",
+    "lastName": "Elizabeth II",
+    "nationality": "British",
+    "bio": "Queen Elizabeth II is the longest-reigning current monarch and the longest-serving current head of state. She has been queen of the United Kingdom and other Commonwealth realms since 1952, overseeing a period of significant social and cultural change.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Frida",
+    "lastName": "Kahlo",
+    "nationality": "Mexican",
+    "bio": "Frida Kahlo was a renowned Mexican painter known for her self-portraits and unique style that combines realism and symbolism. Her work reflects her physical and emotional pain, as well as her cultural identity.",
+    "photo": "https://media.vogue.mx/photos/5eb1adab5adaf1625f92effc/master/pass/retrato-de-la-pintora-frida-kahlo.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Gabriela",
+    "lastName": "Mistral",
+    "nationality": "Chilean",
+    "bio": "Gabriela Mistral was a Chilean poet, diplomat, and educator, and the first Latin American to win the Nobel Prize in Literature in 1945. Her works address themes such as love, motherhood, and nature.",
+    "photo": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTwm4avMfQat1K_9ylRvTPopRXwK4V1AzejEgz6k_4NkF2tiRYyYV7p6m9TS5heAP-AdtwJkY66CwKSRgA"
+  },
+  {
+    "id": "28",
+    "name": "Eva",
+    "lastName": "Perón",
+    "nationality": "Argentinian",
+    "bio": "Eva Perón, also known as Evita, was an actress and First Lady of Argentina. She is remembered for her work in labor rights and women's suffrage, as well as her great charisma and connection with the Argentine people.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Evita_%28cropped%29.JPG/440px-Evita_%28cropped%29.JPG"
+  },
+  {
+    "id": "29",
+    "name": "Rigoberta",
+    "lastName": "Menchú",
+    "nationality": "Guatemalan",
+    "bio": "Rigoberta Menchú is a Guatemalan indigenous leader and human rights activist. She received the Nobel Peace Prize in 1992 for her work in defense of the rights of indigenous peoples in Latin America.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rigoberta_Menchu.jpg/440px-Rigoberta_Menchu.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Isabel",
+    "lastName": "Allende",
+    "nationality": "Chilean",
+    "bio": "Isabel Allende is a Chilean writer whose novels have been translated into more than 35 languages. Her best-known work, 'The House of the Spirits,' blends the real and the fantastic and has been adapted into film and theater.",
+    "photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3qHxYPNflULIZtzHpxgjb9vVN8dpSdd_gT76pehrS_uKS-zvf"
+  },
+  {
+    "id": "31",
+    "name": "Celia",
+    "lastName": "Cruz",
+    "nationality": "Cuban",
+    "bio": "Celia Cruz was a Cuban singer known as the Queen of Salsa. Her musical career spanned more than five decades, during which she popularized Latin music worldwide with her powerful voice and charismatic style.",
+    "photo": "https://s.france24.com/media/display/cf6bafa4-f248-11e8-8dc8-005056a964fe/w:1280/p:4x3/celia-cruz_ok.jpg"
+  }
+]
